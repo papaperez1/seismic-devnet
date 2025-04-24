@@ -1,4 +1,4 @@
-# seismic-devnet Contract
+# Seismic-Devnet Contract Deployment
 
 ![image](https://github.com/user-attachments/assets/5a8b48f5-4992-4bc8-8047-4d3ec484c14d)
 
@@ -87,4 +87,4 @@ bash script/transact.sh
 ```
 ![image](https://github.com/user-attachments/assets/53357676-f0da-426a-9f3a-f569dbf20253)
 
-
+DONE!!!
