@@ -1,4 +1,4 @@
-# ```````````````Seismic-Devnet Contract Deployment ``````````
+# ``````````````Seismic-Devnet Contract Deployment ``````````
 
 ![image](https://github.com/user-attachments/assets/5a8b48f5-4992-4bc8-8047-4d3ec484c14d)
 
